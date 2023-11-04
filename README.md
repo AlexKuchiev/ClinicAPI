@@ -1,2 +1,9 @@
 # ClinicAPI
-API for Clinic via FastAPI
+## API for Clinic via FastAPI
+### Author: Alexander Kuchiev
+APi для ветеринарной клиники в котором реализованны следующие методы:
+- запись собак
+- получение списка собак
+- получение собаки по id
+- получение собак по типу
+- обновление собаки по id
